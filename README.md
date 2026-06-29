@@ -1,6 +1,6 @@
 # Welcome to Dalifos chat 3.4
 - this is a chat app in website *without sign in* **(need sign in and vertification to add the user name)**
-- You can search for it on google
+- You can search for it on *google and bing*
 - **filter** included
 - everything is HERE
 - have a lot of features some listed in this video ***https://www.youtube.com/watch?v=FggMshnfLKY***
